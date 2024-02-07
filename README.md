@@ -28,7 +28,7 @@ into my Neovim. From syntax highlighting and code completion to version control 
 I don't really use a lot of plugins in Neovim but I do use a few which is good and it doesn't effect the performance of Neovim.
 
 <p align="center">
-<img src="./assets/dang-dang-it.gif" />
+<img src="./assets/theprimeagen-surprised.gif" />
 </p>
 
 Neovim's commitment to simplicity, performance, and customization ensures that it remains unbloated and clutter-free. Its modular architecture, emphasis on efficiency, and minimalist design make it an ideal choice for users who value a focused and streamlined text-editing experience.
